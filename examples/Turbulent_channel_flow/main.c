@@ -21,7 +21,7 @@ int NP = 9;
 
 // --- Physics constants ---
 double tau = 0.52;
-double F_p = 1e-5;
+double F_p = 5e-6;
 int object_width = 20;
 int object_height = 40;
 int object_y_offset = 1;
